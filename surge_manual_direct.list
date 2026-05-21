@@ -7,8 +7,8 @@ DOMAIN-SUFFIX,adguard.org
 DOMAIN,policy.system-usage-report.intel.com
 DOMAIN-SUFFIX,system-usage-report.intel.com
 DOMAIN-SUFFIX,convection.cn
-IP-CIDR,35.190.88.7/32,no-resolve
 DOMAIN-SUFFIX,bugsnag.com
 DOMAIN,static.ui.com
 DOMAIN-SUFFIX,lifelearn-cliented.com
 DOMAIN-SUFFIX,lifelearn.com
+IP-CIDR,35.190.88.7/32,no-resolve
