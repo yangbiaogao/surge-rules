@@ -11,6 +11,7 @@ DOMAIN-SUFFIX,temu.com
 DOMAIN,copilot-telemetry.githubusercontent.com
 DOMAIN,telemetry.individual.githubcopilot.com
 DOMAIN-SUFFIX,githubcopilot.com
+DOMAIN,collector.github.com
 # > Ubiquiti / UniFi
 DOMAIN-SUFFIX,ui.com
 DOMAIN-SUFFIX,ubnt.com
