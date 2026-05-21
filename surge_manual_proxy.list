@@ -1,8 +1,17 @@
 # > 手动补漏
+# > Reddit
 DOMAIN,matrix.redditspace.com
+# > Amazon Dev
 DOMAIN-SUFFIX,amazon.dev
+# > Snapchat / Snap Kit
 DOMAIN-SUFFIX,snapkit.com
+# > Temu
 DOMAIN-SUFFIX,temu.com
+# > GitHub Copilot
+DOMAIN,copilot-telemetry.githubusercontent.com
+DOMAIN,telemetry.individual.githubcopilot.com
+DOMAIN-SUFFIX,githubcopilot.com
+# > Ubiquiti / UniFi
 DOMAIN-SUFFIX,ui.com
 DOMAIN-SUFFIX,ubnt.com
 DOMAIN-SUFFIX,ubnt.com.cn
@@ -20,4 +29,3 @@ DOMAIN,trace.svc.ui.com
 DOMAIN,teleport.svc.ui.com
 DOMAIN,device-state.svc.ui.com
 DOMAIN,remote-access.svc.ui.com
-DOMAIN,copilot-telemetry.githubusercontent.com
