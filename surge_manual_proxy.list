@@ -1,0 +1,23 @@
+# > 手动补漏
+DOMAIN,matrix.redditspace.com
+DOMAIN-SUFFIX,amazon.dev
+DOMAIN-SUFFIX,snapkit.com
+DOMAIN-SUFFIX,temu.com
+DOMAIN-SUFFIX,ui.com
+DOMAIN-SUFFIX,ubnt.com
+DOMAIN-SUFFIX,ubnt.com.cn
+DOMAIN-SUFFIX,unifi-ai.com
+DOMAIN-SUFFIX,uwn.com
+DOMAIN-SUFFIX,ui.direct
+DOMAIN,static.ui.com
+DOMAIN,sso.ui.com
+DOMAIN,cloudaccess.svc.ui.com
+DOMAIN,unifi.ui.com
+DOMAIN,account.ui.com
+DOMAIN,api.ui.com
+DOMAIN,fw-update.ui.com
+DOMAIN,trace.svc.ui.com
+DOMAIN,teleport.svc.ui.com
+DOMAIN,device-state.svc.ui.com
+DOMAIN,remote-access.svc.ui.com
+DOMAIN,copilot-telemetry.githubusercontent.com
