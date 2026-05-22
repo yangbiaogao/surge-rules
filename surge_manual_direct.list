@@ -12,4 +12,4 @@ DOMAIN,static.ui.com
 DOMAIN-SUFFIX,lifelearn-cliented.com
 DOMAIN-SUFFIX,lifelearn.com
 DOMAIN-SUFFIX,baidu.com
-IP-CIDR,35.190.88.7/32,no-resolve
+IP-CIDR,35.190.88.7
