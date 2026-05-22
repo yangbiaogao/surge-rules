@@ -12,4 +12,8 @@ DOMAIN,static.ui.com
 DOMAIN-SUFFIX,lifelearn-cliented.com
 DOMAIN-SUFFIX,lifelearn.com
 DOMAIN-SUFFIX,baidu.com
+DOMAIN,hectorstatic.baidu.com
+DOMAIN,sp1.baidu.com
+DOMAIN,sp2.baidu.com
+DOMAIN,sp3.baidu.com
 IP-CIDR,35.190.88.7
