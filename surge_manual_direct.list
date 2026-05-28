@@ -20,3 +20,8 @@ DOMAIN,sp3.baidu.com
 DOMAIN-SUFFIX,jumpdesktop.com
 DOMAIN-KEYWORD,lanrentingshu
 IP-CIDR,35.190.88.7
+# > 联通测试 IP / generate_204 探测
+IP-CIDR,102.67.167.188/32,联通测试IP,no-resolve
+IP-CIDR,102.67.167.245/32,联通测试IP,no-resolve
+IP-CIDR,176.58.92.144/32,联通测试IP,no-resolve
+IP-CIDR,176.58.92.254/32,联通测试IP,no-resolve
