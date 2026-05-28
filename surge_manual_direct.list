@@ -16,7 +16,7 @@ DOMAIN,hectorstatic.baidu.com
 DOMAIN,sp1.baidu.com
 DOMAIN,sp2.baidu.com
 DOMAIN,sp3.baidu.com
-DOMAIN-SUFFIX,tailscale.com
+#DOMAIN-SUFFIX,tailscale.com
 DOMAIN-SUFFIX,jumpdesktop.com
 DOMAIN-KEYWORD,lanrentingshu
 IP-CIDR,35.190.88.7
