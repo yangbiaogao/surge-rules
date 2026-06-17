@@ -36,3 +36,5 @@ DOMAIN,sequoia.apple.com
 DOMAIN,apiboom3.globaldelight.net
 DOMAIN-SUFFIX,globaldelight.net
 DOMAIN-SUFFIX,globaldelight.com
+# > 可莉
+DOMAIN-SUFFIX,rule.kelee.one
