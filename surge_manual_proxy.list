@@ -42,3 +42,5 @@ DOMAIN-SUFFIX,rule.kelee.one
 DOMAIN-SUFFIX,toonwoo.com
 # > v2ex
 DOMAIN-SUFFIX,v2ex.com
+# > Alpine 官方源
+DOMAIN-SUFFIX,dl-cdn.alpinelinux.org
