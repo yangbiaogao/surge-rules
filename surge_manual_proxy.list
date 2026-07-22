@@ -44,3 +44,5 @@ DOMAIN-SUFFIX,toonwoo.com
 DOMAIN-SUFFIX,v2ex.com
 # > Alpine 官方源
 DOMAIN-SUFFIX,dl-cdn.alpinelinux.org
+# > MetaTrader 网站
+DOMAIN-SUFFIX,metatrader5.com
